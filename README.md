@@ -10,7 +10,7 @@ To use this project, follov these steps:
 3 - Ready to work!
 
 Technologies:
-Node JS, Mongo DB, Express JS, cors, mongoose, dotenv
+Node JS, Mongo DB, Express JS, cors, mongoose, dotenv, middleware
 
 Architecture: 
 The project is designed in MVC
