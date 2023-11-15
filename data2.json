@@ -1,0 +1,279 @@
+[
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:38:58 PM",
+    "statusCode": 200,
+    "responseTime": "45.31 ms"
+  },
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:39:03 PM",
+    "statusCode": 200,
+    "responseTime": "42.93 ms"
+  },
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:39:10 PM",
+    "statusCode": 200,
+    "responseTime": "44.21 ms"
+  },
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:39:11 PM",
+    "statusCode": 200,
+    "responseTime": "9.30 ms"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "method": "POST",
+    "url": "http://localhost:4200/student",
+    "timestamp": "11/1/2023, 1:39:13 PM",
+    "statusCode": 200,
+    "responseTime": "1.47 ms"
+  },
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:39:17 PM",
+    "statusCode": 200,
+    "responseTime": "9.75 ms"
+  },
+  {
+    "method": "GET",
+    "url": "http://localhost:4200/",
+    "timestamp": "11/1/2023, 1:40:04 PM",
+    "statusCode": 200,
+    "responseTime": "45.10 ms"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  },
+  {
+    "name": "Promise Mark",
+    "age": "25",
+    "class": "graduate",
+    "school": "Uni Lag"
+  }
+]
